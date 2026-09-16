@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite the repository and the associated publication where appropriate."
+title: "Uncertainty-Aware Structural Assessment"
+type: software
+authors:
+  - family-names: "Haeri"
+    given-names: "Seyyed Mohammad Mojtahed"
+repository-code: "https://github.com/SMmhaeri/uncertainty-aware-structural-assessment"
+version: "0.1.0"
+date-released: "2026-09-16"
+preferred-citation:
+  type: conference-paper
+  title: "Integrating ILI Measurement Uncertainty into the RSTRENG Method via Monte Carlo Simulation"
+  authors:
+    - family-names: "Haeri"
+      given-names: "Seyyed Mohammad Mojtahed"
+    - family-names: "Attia"
+      given-names: "Saher"
+    - family-names: "Shahzad"
+      given-names: "Khurram"
+    - family-names: "Meleka"
+      given-names: "Mark"
+    - family-names: "Abtahi"
+      given-names: "Shaghayegh"
+    - family-names: "Adeeb"
+      given-names: "Samer"
+  conference:
+    name: "ASME Pressure Vessels & Piping Conference (PVP 2026)"
+  year: 2026

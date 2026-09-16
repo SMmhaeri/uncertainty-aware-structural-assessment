@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets / local configuration
+.env
+.env.*
+
+# Research / proprietary inputs
+example1.xlsx
+data/private/
+data/raw/
+private/
+confidential/
+enbridge_data/
+
+# Generated outputs
+outputs/
+results/
+checkpoints/
+logs/
+PSQR_OUTPUT/
+
+# OS
+.DS_Store
+Thumbs.db
